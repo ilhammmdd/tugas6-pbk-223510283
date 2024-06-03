@@ -1,0 +1,14 @@
+{
+  "articles": [
+    {
+      "id": "1",
+      "title": "Atomic Habits",
+      "content": " Perubahan Kecil yang Memberikan Hasil Luar Biasa adalah buku kategori self improvement karya James Clear. Pada umumnya, perubahan-perubahan kecil seringkali terkesan tak bermakna karena tidak langsung membawa perubahan nyata pada hidup suatu manusia."
+    },
+    {
+      "id": "2",
+      "title": "Rich Dad Poor Dad ",
+      "content": "buku yang membahas masalah finansial yang dihadapi banyak orang dikarenakan ajaran keliru orang tua mereka mengenai keuangan, yang juga dialaminya semasa kecil dan remaja"
+    }
+  ]
+}
